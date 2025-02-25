@@ -8,7 +8,7 @@ Welcome to **EchoAsp**, the TypeScript-powered AI agent that’s here to rescue 
 
 ## What It Does
 
-EchoAsp is your tireless partner, handling inbound calls like a pro so you can focus on making the world a better place—or at play video games guilt-free. Here’s the magic it weaves:
+EchoAsp is your tireless partner, handling inbound calls like a pro so you can focus on making the world a better place—or at least play video games guilt-free. Here’s the magic it weaves:
 
 1. **Answers Calls**: Picks up with a suave, “Travel Focus and Fulfillment Focus Group, this is Nathan,” courtesy of AWS Polly’s silky-smooth voice.
 2. **Chats Like a Human**: Engages callers in a delightful back-and-forth, collecting critical info (claim ID, name, phone, email, promo time) with the finesse of a seasoned agent.
