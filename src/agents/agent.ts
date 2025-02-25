@@ -1,7 +1,7 @@
 import { SDK } from '@ringcentral/sdk';
-import { synthesizeSpeech } from './speech';
-import { dataStore, ClientData } from './dataStore';
-import { config, promoTimes } from './config';
+import { synthesizeSpeech } from '../speech/speech';
+import { dataStore, ClientData } from '../data/dataStore';
+import { config, promoTimes } from '../config/config';
 
 const rc = new SDK({
   server: config.ringCentral.server,
