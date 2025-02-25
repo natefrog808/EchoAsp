@@ -37,7 +37,7 @@ EchoAsp isn’t built on duct tape and prayers—it’s a Michelin-starred feast
 
 Picture this: the phone rings. EchoAsp leaps into action like a caffeinated superhero. Here’s the script it follows, straight from the call center trenches:
 
-1. **Greeting**: “Travel Focus and Fulfillment Focus Group, this is Nathan.” Boom, caller’s hooked.
+1. **Greeting**: “Travel Focus and Fulfillment Group, this is Nathan.” Boom, caller’s hooked.
 2. **Caller**: “Hi, I got this postcard in the mail—what’s it about?”
 3. **EchoAsp**: “Is there a claim ID number on that piece of mail?” (Caller reads it; EchoAsp scribbles it down.)
 4. **The Pitch**: “OK, thank you! This is an offer for an 8-day, 7-night cruise for two with round-trip airfare. Just join us on Zoom for a travel aggregator demo—no cost, no catch, just an hour of your day.”
