@@ -105,7 +105,7 @@ Ready to let EchoAsp loose? Here’s how to wrangle this magnificent creature:
 
 ---
 
-## Why It’s Mind-Blowing
+## Why It’s Amazing 
 
 EchoAsp isn’t just an agent—it’s a rebellion against tedium. It’s the lovechild of necessity and ambition, a testament to what happens when you mix TypeScript wizardry with a refusal to settle. Every line of code is a middle finger to the grind, a step toward freedom, and a nod to the absurd beauty of automation.
 
