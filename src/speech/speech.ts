@@ -1,6 +1,6 @@
 import { PollyClient, SynthesizeSpeechCommand } from '@aws-sdk/client-polly';
 import { SpeechClient } from '@google-cloud/speech';
-import { config } from './config';
+import { config } from '../config/config';
 
 const pollyClient = new PollyClient({
   region: config.aws.region,
