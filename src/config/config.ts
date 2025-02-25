@@ -19,7 +19,7 @@ export const config = {
     port: 3000,
     webhookUrl: 'https://your-ngrok-url.ngrok.io/webhook', // Replace with real URL later
   },
-  dataFile: 'client_data.json', // Where we’ll store client info
+  dataFile: '../client_data.json', // Adjusted for relative path from src/data/
 };
 
 // Available promo times (Wednesday-Sunday, 10am, 12pm, 2pm PT)
