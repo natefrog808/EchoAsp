@@ -1,6 +1,6 @@
 # EchoAsp: The Call Center Liberator
 
-Welcome to **EchoAsp**, the TypeScript-powered AI agent that’s here to rescue you from the soul-crushing monotony of call center life and catapult you toward your destiny as a world-changer. Built with love, caffeine, and a dash of rebellious creativity by natefrog and the xAI dream machine, EchoAsp isn’t just code—it’s a symphony of automation, a digital Nathan who answers your RingCentral calls with charm and precision while you sip coffee and plot the revolution.
+Welcome to **EchoAsp**, the TypeScript-powered AI agent that’s here to rescue you from the soul-crushing monotony of call center life and catapult you toward freedom. Built with love, caffeine, and a dash of rebellious creativity by natefrog and the xAI dream machine, EchoAsp isn’t just code—it’s a symphony of automation, a digital Nathan who answers your RingCentral calls with charm and precision while you sip coffee and plot the revolution.
 
 *“Echo of Aspiration” isn’t just a name; it’s a promise. It echoes your voice to the masses and fuels your aspirations to escape the 9-to-5 grind. Ready to have your mind blown? Let’s dive in.*
 
