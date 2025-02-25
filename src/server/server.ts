@@ -1,6 +1,6 @@
 import express from 'express';
-import { agent } from './agent';
-import { config } from './config';
+import { agent } from '../agents/agent';
+import { config } from '../config/config';
 
 const app = express();
 app.use(express.json());
