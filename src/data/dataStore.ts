@@ -1,5 +1,5 @@
 import * as fs from 'fs/promises';
-import { config } from './config';
+import { config } from '../config/config';
 
 interface ClientData {
   claimId: string;
